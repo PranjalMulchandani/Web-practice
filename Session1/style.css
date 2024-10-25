@@ -1,0 +1,40 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+header{     
+    background-color: rgb(181, 223, 223);
+    text-align: center;
+    font-size: 30px;
+    color: rgb(10, 11, 12);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+nav{
+    display: flex;
+    width: 30%;
+    height: 200px;
+    padding: 0;
+    background-color: aquamarine;
+    
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+article {
+   display: flex;
+   flex-wrap: wrap;
+    padding: 20px;
+    width: 70%;
+    background-color: #7499a0;
+    height: 300px; 
+    padding: 30px;
+    justify-content: center;
+    
+    
+  }
+

@@ -1,0 +1,30 @@
+.emUnit{
+    font-size: 2em;
+}
+.exUnit{
+font-size: 2ex;
+}
+span{
+    font-size: 20px;
+}
+.chUnit{
+    font-size: 3ch;
+}
+.example{
+    font-size: 10px;
+}
+.remUnit{
+    font-size: 2rem;
+}
+.vhUnit h1{
+    font-size: 20vh;
+}
+.vminUnit{
+    font-size:20vmin ;
+}
+.vmaxUnit{
+    font-size: 30vman;
+}
+.percentageUnit{
+    font-size: 50%;
+}

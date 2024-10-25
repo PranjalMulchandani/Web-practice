@@ -1,0 +1,40 @@
+
+div{
+    background-color: aliceblue;
+}
+div p{
+    color: blue;
+
+}
+p{
+    color: green;
+}
+div p:nth-child(6){
+    color: red;
+}
+p:hover{
+    color: pink;
+}
+
+h1{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 10px 30px;
+    border: 10px solid red;
+}
+.circle{
+    background: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 200px;
+    text-align: center;
+    
+}
+.circle-container{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+
+}

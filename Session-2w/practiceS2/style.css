@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Playwrite GB S", cursive;
+}
+
+.container{
+    border: 3px solid black;
+    width: 900px;
+    margin:  33px auto;
+    padding: 0;
+}
+.item{
+    border: 3px solid purple;
+    margin: 12px 3px;
+    padding: 12px 3px;
+    background-color: beige;
+    text-align: left;
+}
+.mid{
+    text-align: center;
+}
+.inner-container ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.inner-container ul li a{
+    text-decoration: none;
+    margin-right: 10px;
+    display: block;
+    float: left;
+    
+}
+
+.navbar {
+    border: 2px solid purple; 
+    display: inline-block; 
+    padding: 5px; 
+    width: 100%;
+    margin: 12px 3px;
+}
+
+
+
